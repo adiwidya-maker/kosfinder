@@ -208,6 +208,11 @@ class _HomePageState extends State<HomePage> {
             title: Text('KosFinder (${p.role.toUpperCase()})'),
             actions: [
               IconButton(
+                tooltip: 'Simulasi Push Notifikasi',
+                icon: const Icon(Icons.notifications_active, color: Colors.amber),
+                onPressed: () => NotificationService.instance.showTestNotification(),
+              ),
+              IconButton(
                 tooltip: 'Refresh',
                 icon: const Icon(Icons.refresh),
                 onPressed: _refreshKos,

@@ -22,12 +22,12 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDummyKeyForWebPlatform',
-    appId: '1:1234567890:web:abcdef123456',
-    messagingSenderId: '1234567890',
-    projectId: 'kosfinder-demo',
-    authDomain: 'kosfinder-demo.firebaseapp.com',
-    storageBucket: 'kosfinder-demo.appspot.com',
+    apiKey: 'AIzaSyC-TrgxAbpcAG3FUrLwPjRv2arOqjidgew',
+    appId: '1:129705915058:web:5d1b0a103a82f05fb3cfab',
+    messagingSenderId: '129705915058',
+    projectId: 'kosfinder-c9763',
+    authDomain: 'kosfinder-c9763.firebaseapp.com',
+    storageBucket: 'kosfinder-c9763.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
