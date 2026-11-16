@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129705915058",
+    "project_id": "kosfinder-c9763",
+    "storage_bucket": "kosfinder-c9763.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129705915058:android:5d1b0a103a82f05fb3cfab",
+        "android_client_info": {
+          "package_name": "com.adiwidya.kosfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-TrgxAbpcAG3FUrLwPjRv2arOqjidgew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

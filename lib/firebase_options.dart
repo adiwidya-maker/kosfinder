@@ -31,19 +31,19 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDummyKeyForAndroidPlatform',
-    appId: '1:1234567890:android:abcdef123456',
-    messagingSenderId: '1234567890',
-    projectId: 'kosfinder-demo',
-    storageBucket: 'kosfinder-demo.appspot.com',
+    apiKey: 'AIzaSyC-TrgxAbpcAG3FUrLwPjRv2arOqjidgew',
+    appId: '1:129705915058:android:5d1b0a103a82f05fb3cfab',
+    messagingSenderId: '129705915058',
+    projectId: 'kosfinder-c9763',
+    storageBucket: 'kosfinder-c9763.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyDummyKeyForIOSPlatform',
     appId: '1:1234567890:ios:abcdef123456',
     messagingSenderId: '1234567890',
-    projectId: 'kosfinder-demo',
-    storageBucket: 'kosfinder-demo.appspot.com',
+    projectId: 'kosfinder-c9763',
+    storageBucket: 'kosfinder-c9763.appspot.com',
     iosBundleId: 'com.example.kosfinder',
   );
 }

@@ -22,11 +22,10 @@ Future<void> main() async {
     debugPrint('Firebase initialization note: $e');
   }
 
-  // GANTI DENGAN URL & ANON KEY DARI PROJECT SUPABASE ANDA:
-  // Supabase Dashboard -> Project Settings -> API
+  // Inisialisasi Supabase dengan kredensial project Anda
   await Supabase.initialize(
-    url: 'https://YOUR_PROJECT_ID.supabase.co',
-    anonKey: 'YOUR_SUPABASE_ANON_KEY',
+    url: 'https://qcuunwyvwzqxrzcveyul.supabase.co',
+    anonKey: 'sb_publishable_F5txoKXGeeFdZhtGIVYxzQ_vcMe27xM',
   );
 
   runApp(const KosFinderApp());
