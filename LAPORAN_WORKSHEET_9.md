@@ -175,8 +175,10 @@
 
 ### T. Riwayat Commit Git Lengkap
 
+![Riwayat Commit Git Terminal](C:/Users/LENOVO/.gemini/antigravity/brain/714e8c7a-61ec-4b97-a735-47f955b91cd3/.user_uploaded/media_1794827334541_fc167a58.jpg)
+
 ```text
-eff8f4b docs: complete worksheet 9 report and final integration
+eff8f4b (HEAD -> feature/auth-notification) docs: complete worksheet 9 report and final integration
 a5e50e1 feat: implement push notification with FCM
 5df4db8 chore: configure firebase cloud messaging
 4eb3b35 security: implement row level security policies
